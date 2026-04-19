@@ -9,26 +9,26 @@
       "apps": [
         {
           "name": "1 - QUẢN LÝ TẬP TIN",
-        "versionName": "4.6",
-        "type": "Truyền hình trực tuyến",
-        "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
-        "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
-        "note": "Thực hiện các thao tác cơ bản như tạo, sao chép, dán, di chuyển, đổi tên, xóa tệp và thư mục một cách hiệu quả.",
-        "preview": [
-          "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png",
-          "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN"
+          "versionName": "4.6",
+          "type": "Truyền hình trực tuyến",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
+          "linkDownload": "https://github.com/anhbaotv/pl/releases/download/ungdung/FileManager_Plus_3.2.2.apk",
+          "note": "Thực hiện các thao tác cơ bản như tạo, sao chép, dán, di chuyển, đổi tên, xóa tệp và thư mục một cách hiệu quả.",
+          "preview": [
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png",
+            "https://lh3.googleusercontent.com/d/1gC7LvrYw5ADJMaiGCMfbcNQpZ0aKFzGN"
           ]
-       },
+        },
         {
-           "name": "2 -  CẤP QUYỀN 5.0",
+          "name": "2 -  CẤP QUYỀN 5.0",
           "versionName": "5.0",
           "type": "Tiện ích",
           "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/1_CAPQUYEN.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
-          },
+        },
         {
           "name": "3 - GIAO DIỆN FIRE LAUNCHER",
           "versionName": "9.53.0",
@@ -36,205 +36,207 @@
           "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/fire.launcher.apk",
           "note": "GIAO DIỆN TIẾNG VIỆT DỄ CÀI.",
-          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          "preview": [
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
-          "name": "3 - PROJECT LAUCHER",
+          "name": "3 - PROJECT LAUNCHER",
           "versionName": "4.68",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/468.apk",
           "note": "GIAO DIỆN TIẾNG VIỆT DỄ CÀI KHÔNG TÊN SHOP 468.",
-          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          "preview": [
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
-          "name": "3 - PROJECT LAUCHER",
+          "name": "3 - PROJECT LAUNCHER",
           "versionName": "4.70",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Projectivy.Launcher.v4.70-beta01.Premium.apk",
           "note": "BẢN KHÔNG CÓ TÊN SHOP 470.",
-          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          "preview": [
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
-          "name": "3 - PROJECT LAUCHER GỐC",
+          "name": "3 - PROJECT LAUNCHER GỐC",
           "versionName": "9.53.0",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/projectlaucer5.apk",
           "note": "GIAO DIỆN TIẾNG VIỆT DỄ CÀI.",
-          "preview": ["https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+          "preview": [
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
-         },
+        },
         {
           "name": "3 - GIAO DIỆN PROJECT LAUNCHER",
           "versionName": "4.6.6",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/giaodienproject.apk",
           "note": "Project Launcher By Khánh IT – giải pháp tối ưu giúp TV Android mượt hơn, gọn gàng hơn và dễ sử dụng chỉ trong vài thao tác..",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
-       },
+        },
         {
           "name": "3 - PROJECT LAUNCHER V2",
           "versionName": "3.12.1",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/project.laucher.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/PROJECT LAUNCHER/icon.png" ]
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
+          ]
         },
         {
           "name": "4 - SET PHÍM HOME XIAOMI",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/4_SETPHIMDIEUKHIEN.apk",
           "note": "Set phím home mặc định.",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "5 - CÀI ĐẶT ANDROID",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_pro.apk",
           "note": "Ứng dụng xem TV miễn phí.",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "5 - CÀI ĐẶT MITV",
           "versionName": "Mới Nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/settings_mitv.apk",
           "note": "Ứng dụng VieON xem phim, truyền hình.",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "6 - TRÌNH TẢI APP DÀNH CHO XIAOMI",
           "versionName": "3.10.13",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/ferraridownloader.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
-           },
+        },
         {
-         "name": "7 - SET TIẾNG VIỆT",
+          "name": "7 - SET TIẾNG VIỆT",
           "versionName": "1.3.2",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/5_SETTIENGVIET.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "8 - BÀN PHÍM TIẾNG VIỆT",
           "versionName": "2.2.0",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/keyboard.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "9 - TÌM KIẾM GIỌNG NÓI CHI TIVI XIAOMI",
           "versionName": "1.1",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/movielegend/KhoApp/releases/download/KhoApp/Google.Kaniss.2.2.0.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "10 - TẢI FILE CẤP QUYỀN GIAO DIỆN",
           "versionName": "2.14.1",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/CAPQUYEN.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "11 - BẢN LƯU GIAO DIỆN PROJECT CHUẨN",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
-          "linkDownload":"https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/banchuan.plbackup",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
+          "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/banchuan.plbackup",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "11 - BẢN LƯU HIỆN KÊNH TRUYỀN HÌNH",
           "versionName": "3.12.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/hienkenhtruyenhinh.plbackup",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "12- ALL TẤT CẢ APP",
           "versionName": "8.8.1",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/allapp.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "13 - SETTING XIAOMI",
           "versionName": "2.2.0",
           "type": "Tiện ích",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/6_StartSettings.1.0.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "DL STORE 16.3",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/DLStore_v16.0.3.apk",
           "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
+            "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"
           ]
         },
         {
           "name": "HOME TV TO ĐÌNH LẬP",
           "versionName": "mới nhất",
           "type": "Truyền hình trực tuyến",
-          "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png",
+          "logo": "https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/icon.png",
           "linkDownload": "https://github.com/dinhkhackhanhdz-blip/XIAOMI/releases/download/khoapp1/Home_TV_v16.0.2vs18-DinhLapTo18-Lap_1000.apk",
-          "preview": [
-            "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/khanhitstore/main/KHANH IT STORE/ICON.png"
-          ]
-        }
-      ]
-    },
-    
+          "preview": ["https://github.com/khanhitxiaomi/khanhitpro/releases/download/xiaomi/logo.png"]
+         }
+       ]
+     }, 
     "entertainment": {
       "apps": [
          {
