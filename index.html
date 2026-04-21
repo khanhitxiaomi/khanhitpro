@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>KHÁNH IT TOOL PHONE</title>
+<title>TOOL CÀI TIVI TRÊN ĐIỆN THOẠI</title>
 
 <!-- 🌐 ICON WEB (FAVICON) -->
 <link rel="icon" type="image/png"
@@ -148,7 +148,9 @@ body{
       <div class="termux-title">PHẦN MỀM</div>
 
       <div class="termux-note">
-        ⚠️ Bấm Vào Tải Ngay và Cài Đặt
+        ⚠️ Bấm Vào Tải Ngay và Cài Đặt 21-04-2026
+        📥 Mở Termux, rồi dán code nền + Enter
+        🚀 Coppy code Nano và dán Ctrl + X , Y để xác nhận
       </div>
 
       <button class="termux-btn"
@@ -212,7 +214,7 @@ async function start(){
 
     let btn = document.createElement("button");
     btn.className = "copy-btn";
-    btn.innerText = "📋 Copy Code";
+    btn.innerText = "📋 Copy Code & Dán Vào Temux";
 
     btn.onclick = async ()=>{
       let txt = await loadTXT(item.url || item);
